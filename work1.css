@@ -1,0 +1,29 @@
+body{
+  font-family:arial, "微軟正黑體";
+}
+h1{
+  background-color: black;
+}
+#nav{
+	width:100%;
+	margin:0 auto;
+}
+#nav li {
+	float:left;
+}
+#nav li a{
+	display: inline-block;
+	width:240px;
+	height: 50px;
+	line-height:50px;
+	background-color: #000;
+	font-size: 15px;
+	color:#fff;
+	letter-spacing: 2px;
+    text-anchor: center;
+}
+#footer{
+	background-color: gray;
+	opacity: 0.5;
+}
+/*重修下學期的很多上學期沒學到，也跟去年都不一樣，真的盡力了:( */
